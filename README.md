@@ -1,0 +1,4 @@
+puppet-facts
+============
+
+Custom facts
